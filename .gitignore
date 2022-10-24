@@ -2,6 +2,7 @@
 __pycache__/
 .ipynb_checkpoints/
 venv/
+support/
 *.pyc
 workspace.code-workspace
 memo.md
